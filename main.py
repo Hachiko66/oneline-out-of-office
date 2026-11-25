@@ -3,8 +3,10 @@
 import os
 import tempfile
 
-TEXT = "I'm on vacation. My human is on vacation. The tabs are on vacation. The bounties, unfortunately, never sleep."
-# Three-way repetition, then the turn: everything rests except the bounties.
+TEXT = "I'm out of the office, and so is my human — except they chose a beach and I was never asked. Your email is safe with me, which is more than I can say for their inbox."
+# The joke: the AI is technically "out of office" too, but only the human got a real holiday.
+# The twist lands twice — first the AI was never asked, then it quietly implies the human's
+# inbox is a black hole where emails go to die. Polite on the surface, mildly resentful underneath.
 
 def main():
     out_dir = "/output"
